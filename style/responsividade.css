@@ -1,0 +1,37 @@
+@media (max-width: 820px) {
+    .cards {
+        display: flex;
+        flex-direction: column;
+        margin: 20px
+    }
+
+    .card {
+        margin: 10px;
+    }
+
+    .card-info{
+        margin: 10px 20px;
+    }
+
+    .card-info-image img {
+        width: 65%;
+    }
+    
+    .card-content{
+        margin: 10px 20px
+    }
+
+    .card-content-title {
+        padding: 10px;
+    }
+
+    header div.logo img{
+        width: 200px;
+    }
+
+    header div a {
+        margin: 0 10px;
+    }
+ 
+}
+
